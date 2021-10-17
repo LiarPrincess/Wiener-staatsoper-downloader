@@ -1,0 +1,19 @@
+{
+  "name": "wiener-staatsoper",
+  "version": "1.0.0",
+  "description": "Really simple program to download subtitles for streams from [Wiener staatsoper](https://www.staatsoperlive.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "typescript": "^3.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^11.10.2"
+  }
+}
